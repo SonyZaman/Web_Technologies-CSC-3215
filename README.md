@@ -1,6 +1,6 @@
-# Edu Quest - Online Learning Management System
+# Online Learning Management System
 
-Edu Quest is a comprehensive **Learning Management System (LMS)** designed to facilitate online education. Built with **PHP** and **MySQL**, this platform allows instructors to create and manage courses while providing students with a seamless learning experience through video lessons and interactive features.
+A comprehensive **Learning Management System (LMS)** designed to facilitate online education. Built with **PHP** and **MySQL**, this platform allows instructors to create and manage courses while providing students with a seamless learning experience through video lessons and interactive features.
 
 ## 🚀 Features
 
