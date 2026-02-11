@@ -1,7 +1,7 @@
 <?php
 $db_host = "localhost";
 $db_user = "root";
-$db_password = "620006950";
+$db_password = "";
 $db_name = "lms_db";
 
 // Create Connection
