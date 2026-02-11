@@ -1,0 +1,1 @@
+Edu Quest is a comprehensive Learning Management System built with PHP and MySQL. It features robust course management, video lesson delivery, student enrollment, and an intuitive admin dashboard for complete platform control.
