@@ -2,7 +2,7 @@
 
 A comprehensive **Learning Management System (LMS)** designed to facilitate online education. Built with **PHP** and **MySQL**, this platform allows instructors to create and manage courses while providing students with a seamless learning experience through video lessons and interactive features.
 
-## 🚀 Features
+##  Features
 
 ### **Admin Panel**
 - **Dashboard:** At-a-glance view of platform metrics (Total Courses, Students, Sold Courses).
@@ -26,7 +26,7 @@ A comprehensive **Learning Management System (LMS)** designed to facilitate onli
 - **Registration & Login:** Secure authentication system for students.
 - **Contact:** Integrated contact form for inquiries.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Frontend:**
   - HTML5 & CSS3
